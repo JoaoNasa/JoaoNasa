@@ -1,6 +1,6 @@
 <!-- Futuristic Cyberpunk Style README -->
 
-<h1 align="center">⚡ Olá, eu sou <span style="color:#00f7ff">João Gabriel Nasario</span> ⚡</h1>
+<h1 align="center"> Olá, eu sou <span style="color:#00f7ff">João Gabriel Nasario</span> </h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software | Full-Stack Explorer 🚀</h3>
 
 ---
@@ -16,7 +16,6 @@
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
