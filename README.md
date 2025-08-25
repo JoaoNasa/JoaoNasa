@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 - 📚 Estudando: **Bacharelado em Engenharia de Software**  
-- 🧩 Interesses: **Front-end | Back-end **  
+- 🧩 Interesses: **Front-end | Back-end**  
 - ✉️ Contato: **joaogabrielnasario@gmail.com**  
 
 ---
