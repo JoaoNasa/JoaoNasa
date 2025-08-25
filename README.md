@@ -2,18 +2,33 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNasa&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens usadas" />
-</p>
-
----
-
 ## 🚀 Sobre mim
 - 📚 Estudando: Bacharelado em Engenharia de Software
 - 🧩 Interesses: Front-end/Back-end
 - ✉️ Contato: joaogabrielnasario@gmail.com
+
+---
+
+## Estudando <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fc/512.gif" alt="✍" width="22" height="22">
+
+<div>
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />   
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>  
+
+---
+
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNasa&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens usadas" />
+</p>
 
 ---
 
